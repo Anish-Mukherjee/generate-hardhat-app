@@ -1,5 +1,5 @@
 {
-  "name": "create-hardhat-app",
+  "name": "generate-hardhat-app",
   "version": "1.0.0",
   "description": "Pre-made templates to get started with Hardhat with one command",
   "main": "index.js",

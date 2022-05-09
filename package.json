@@ -1,0 +1,21 @@
+{
+  "name": "create-hardhat-app",
+  "version": "1.0.0",
+  "description": "Pre-made templates to get started with Hardhat with one command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "generate":"./index.js"
+  },
+  "keywords": [],
+  "author": "Anish Mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.11.0",
+    "inquirer": "^8.2.4",
+    "log-symbols": "^4.1.0"
+  }
+}

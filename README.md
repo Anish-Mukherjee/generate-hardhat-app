@@ -10,4 +10,8 @@ This installs the package globally on your system. Now go to your project direct
 
 ```generate```
 
-and choose your project template and get started! 🚀
+and choose your project template. Run 
+
+```npm i --save-dev```
+
+to install the project specific dependencies and get started shipping your product! 🚀🚀🚀

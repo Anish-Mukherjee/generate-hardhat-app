@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
-contract CPAMM {
+contract AMM {
     IERC20 public immutable token0;
     IERC20 public immutable token1;
 
